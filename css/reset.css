@@ -1,0 +1,8 @@
+@charset "utf-8";
+
+/* ------reset------ */
+* {margin: 0; padding: 0;}
+li {list-style: none;}
+a {text-decoration: none; color:inherit;}
+body {overflow-x: hidden; font-family: "Noto Sans KR", serif; color: #333;
+}

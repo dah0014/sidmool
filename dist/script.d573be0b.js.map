@@ -1,0 +1,1 @@
+{"version":3,"sources":["js/script.js"],"names":["console","log","window","innerHeight"],"mappings":"AAAAA,OAAO,CAACC,GAAG,CAACC,MAAM,CAACC,WAAW,CAAC","file":"script.d573be0b.js","sourceRoot":"..","sourcesContent":["console.log(window.innerHeight)"]}
